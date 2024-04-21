@@ -8,9 +8,10 @@ We finally achieved an accuracy 99.535% and an F1 score of 0.886 in identifying 
 
 ## Contents
 
-1. `data.csv` contains the predicted data for the hackathon
-2. `Convolve_TensileTensors.pdf` is the final report in a Latex document
-3. `TensileTensors.ipynb` contains all the code
+1. `PS.docx` contains the problem statement
+2. `final_data.csv` contains the predicted data for the hackathon
+3. `Convolve_TensileTensors.pdf` is the final report in a Latex document
+4. `TensileTensors.ipynb` contains all the code
 
 ## Team
 1. Samarth K J (Lead)
