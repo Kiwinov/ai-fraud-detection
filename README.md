@@ -8,8 +8,8 @@ We finally achieved an accuracy 99.535% and an F1 score of 0.886 in identifying 
 
 ## Contents
 
-1. `data.csv` contains the raw data given for the project
-2. `Convolve_TensileTensors.pdf` is the project report in a Latex document
+1. `data.csv` contains the predicted data for the hackathon
+2. `Convolve_TensileTensors.pdf` is the final report in a Latex document
 3. `TensileTensors.ipynb` contains all the code
 
 ## Team
