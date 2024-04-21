@@ -1,5 +1,5 @@
 # Convolve: TensileTensors
-All data and code created for the Inter-IIT Convolve competition.
+All data and code created for the Inter-IIT Convolve competition by the team TensileTensors.
 
 ## About
 The objective of the hackathon was to identify anomalies (fraudsters) from a collection of transaction history data of different consumer bank customers. Each row corresponded to a bank account with columns describing the details regarding the account such as the list of all transactions, demography, etc.
